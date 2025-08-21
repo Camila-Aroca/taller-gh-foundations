@@ -34,7 +34,7 @@ Brindar a los estudiantes una guía clara y práctica para:
 - Jueves 28 de agosto – 16:00 a 17:00
 - Jueves 4 de septiembre – 16:00 a 17:00
 
-**Lugar:** DUOC UC, sede Antonio Varas (primera sesión en sala F205, edificio Froebel).
+**Lugar:** DUOC UC, sede Antonio Varas (primera sesión en sala F204, edificio Froebel).
 
 ## Dictado por
 **Camila Aroca**  
