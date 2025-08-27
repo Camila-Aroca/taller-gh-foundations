@@ -19,6 +19,7 @@ Brindar a los estudiantes una guía clara y práctica para:
 - GitHub Student Developer Pack: https://education.github.com/pack
 - Discusión sobre vouchers y transición de proveedor de examen (PSI → Pearson Vue): https://github.com/orgs/community/discussions/138834
 - Guía de Estudios para GitHub Foundations Certification: https://techcommunity.microsoft.com/blog/educatordeveloperblog/%C2%A1gu%C3%ADa-de-estudios-para-la-certificaci%C3%B3n-github-foundations/4176639
+- Guía de estudios en formato PDF, desglosa todo lo que comprende cada dominio del examen: https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf
 - Microsoft Learning Path para GitHub Foundations: https://learn.microsoft.com/es-mx/collections/o1njfe825p602p?WT.mc_id=academic-141732-abrilu
 - Curso completo en inglés de FreeCodeCamp: https://www.youtube.com/watch?v=Jdc0i7RcBv8&t=35101s
 - GitHub Foundations Practice Test: https://ghcertified.com/practice_tests/foundations/
